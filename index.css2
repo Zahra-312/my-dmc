@@ -1,0 +1,51 @@
+.line1{
+    display: inline-block;
+    border-bottom: 1px solid black;
+    width:150px;
+    padding: 2px;
+}
+.line2{
+    display: inline-block;
+    border-bottom: 1px solid black;
+    width: 180px;
+    padding: 2px ;
+}
+.line3{
+    display: inline-block;
+    border-bottom: 1px solid black;
+    width: 500px;
+    padding: 2px;
+}
+.line4{
+    display: inline-block;
+    border-bottom: 1px solid black;
+    width: 100px;
+    padding: 2px;
+}
+.line5{
+    display: inline-block;
+    border-bottom: 1px solid black;
+    width: 200px;
+    padding: 2px;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.line6{
+    display: inline-block;
+    border-bottom: 1px solid black;
+    width: 100px;
+    padding: 2px;
+}
+.line7{
+    display: inline-block;
+    border-bottom: 1px solid black;
+    width: 100px;
+    padding: 2px;
+}
+.line8{
+    display: inline-block;
+    border-bottom: 1px solid black;
+    width: 200px;
+}

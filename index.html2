@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My DMC</title>
+    <link rel="stylesheet" href="task 02.css">
+</head>
+<body>
+    <header>
+   <center>
+    <h2><b>BOARD OF INTERMEDIATE & SECONDARY EDUCATION</b></h2>
+    <h3><b>DERA ISMAIL KHAN</b></h3>
+    <h3><b>Khyber Pakhtunkhwa (Pakistan)</b></h3>
+    <h4>DETAILED MARKS CERTIFICATE</h4>
+   <h3>SECONDARY SCHOOL CERTIFICATE EXAMINATION</h3>
+   <h3><i>SESSION ANNUAL-2020</i></h3>
+   <i>Provisional & Detailed Marks Certifucate</i>
+   </center>
+   </header>
+   <p>
+     <b>Roll No: 30376</b> <br>
+     <b>Group: SCIENCE</b> <br>
+     <b>Enrol No: 180-DB/1008-1</b> <br>
+        <center>
+        Name: <span class="line1">Fatima Tu Zahra</span>
+        Son/Daughter of: <span class="line2"> Muhammad Latif</span>
+        of <span class="line3">GOVT GIRLS HIGH SCHOOL NO.3 D I KHAN</span>
+        has secured the marks shown againt each subject,in the Secondary School Certificate Examination <span class="line4">Annual-2020</span>
+        as <span class="line5">Regular Student</span>
+        </center>
+    </p>
+    <center>
+    <table border="1px">
+        <tr>
+            <th>SR.No</th>
+            <th>Subjects</th>
+            <th>Total Marks (9+10)</th>
+            <th>Marks Obtained(9+10)</th>
+            <th>In Words</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>English</td>
+            <td>150</td>
+            <td>138</td>
+            <td>One Hundred Thirty Eight</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Urdu</td>
+            <td>150</td>
+            <td>116</td>
+            <td>One Hundred Sixteen</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Islamiyat</td>
+            <td>100</td>
+            <td>72</td>
+            <td>seventy-two</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Pakistan Studies</td>
+            <td>100</td>
+            <td>70</td>
+            <td>seventy only</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Maths</td>
+            <td>150</td>
+            <td>128</td>
+            <td>One Hundred Twenty Eight</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Physics</td>
+            <td>150</td>
+            <td>104</td>
+            <td>One Hundred Four</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Chemistry</td>
+            <td>150</td>
+            <td>122</td>
+            <td>One Hundred Twenty Two</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Computer Science</td>
+            <td>150</td>
+            <td>122</td>
+            <td>One Hundred Twenty Two</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>Total=885-A1</td> <td>Eight Hundred Eighty Five Only</td>
+        </tr>
+    </table>
+    </center>
+    <b align="right">Remarks:3% marks have been added to the total on the basis of class-9th marks.</b><br>
+    <b>Date Of Birth </b> <span class="line5">06 September 2005</span> <br><br>
+    <b>Result Declared On:</b> <span class="line7">22-07-2020</span>
+    <p>Issue Date:  22-07-2020 </p>
+    <b>Note:The Marks awarded for Class-10th is the best prediction of the performance and has been awarded based on the formulae and guidelines approved by the government and recognized by IBCC due to COVID-19</b>
+    <p><i>Computer Cell,B.I.S.E,Dera Ismail Khan.</i></p>
+    <h1 align="right" ><span class="line8" align="right"></span></h1>
+    <h3 align="right" >Board Of Examination</h3>
+
+    
+    
+    
